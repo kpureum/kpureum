@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :seedling: Skill
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+![Static Badge](https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=ffffff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kpureum)](https://solved.ac/kpureum)
 
