@@ -1,3 +1,5 @@
+<div align=center>
+
 ## Hi there 👋
 
 <!--
@@ -18,4 +20,9 @@ Here are some ideas to get you started:
 
 :seedling: Skill
 
+ <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kpureum)](https://solved.ac/kpureum)
+
+
+</div>
