@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=PUREUM's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=72&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16&height=200&section=header&text=PUREUM's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=72&fontAlignY=36)
 
 <div align=center>
 
