@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 📂 Studying
 
-![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=ffffff)
 
 </div>
